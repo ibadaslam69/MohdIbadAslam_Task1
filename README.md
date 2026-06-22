@@ -17,4 +17,4 @@ A responsive landing page built using HTML5 and CSS3.
 
 ## Author
 
-Mohd Ibad Aslam
+Mohd Ibad Aslam Sani
